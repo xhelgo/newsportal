@@ -1,0 +1,55 @@
+﻿body {background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' height='100%25' width='100%25'%3E%3Cdefs%3E%3Cpattern id='doodad' width='50' height='50' viewBox='0 0 40 40' patternUnits='userSpaceOnUse' patternTransform='rotate(45)'%3E%3Crect width='100%25' height='100%25' fill='%232d3748'/%3E%3Ccircle cx='34' cy='20' r='4' fill='%234a5568'/%3E%3Ccircle cx='6' cy='20' r='4' fill='%234a5568'/%3E%3Ccircle cx='20' cy='34' r='4' fill='%234a5568'/%3E%3Ccircle cx='20' cy='6' r='4' fill='%234a5568'/%3E%3Ccircle cx='34' cy='6' r='4' fill='%231a202c'/%3E%3Ccircle cx='6' cy='34' r='4' fill='%231a202c'/%3E%3Ccircle cx='34' cy='34' r='4' fill='%231a202c'/%3E%3Ccircle cx='6' cy='6' r='4' fill='%231a202c'/%3E%3C/pattern%3E%3C/defs%3E%3Crect fill='url(%23doodad)' height='200%25' width='200%25'/%3E%3C/svg%3E ");
+		}
+
+h1 {color: #191a1e;
+	font-family: Montserrat, sans-serif;
+	font-weight: 900;
+	font-size: 40px;
+	color: #f8f8f8;}
+
+h2 {font-family: Montserrat, sans-serif;
+	font-weight: 700;
+	color: #f8f8f8;}
+
+p {font-family: Lora;
+	font-weight: 400;
+	color: #f8f8f8;}
+
+hr {padding: auto;}
+
+a:link {color: #ff335c;
+		font-family: sans-serif;
+		text-decoration: none;}
+
+a:hover {color: #ff7143;}
+
+a:visited {color: #ffffff;}
+
+a:active {color: #fa3E00;}
+
+.container {width: 900px;
+		background: #000000;
+		margin: 0px auto 0px auto;}
+
+.banner {width: 100%;}
+
+.menu {background: #215aaf;
+		height: 25px;
+		line-height: 25px;
+		text-align: center;}
+
+.main {width: 75%;
+		float: left;
+		padding: 0px 5px 0px 15px;}
+
+.ads {width: 22%;
+		height: 900px;
+		float: right;
+		padding: 40px 0px 0px 0px;}
+
+.footer {width: 100%;
+	height: 75px;
+	line-height: 75px;
+	background: #04183A;
+	color: #ffffff;
+	text-align: center;}
